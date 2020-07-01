@@ -14,7 +14,7 @@
 4.有標記終點的位置為黑色星星<br>
  
 <a href="https://www.youtube.com/watch?v=TmrnWsi8rbs">實作成果連結影片</a><br>
-<a href="https://github.com/Harvey212/nccu_geometry">程式碼連結</a><br>
+<a href="https://github.com/Harvey212/nccu_geometry/blob/master/geoproject.py">程式碼連結</a><br>
 <img src="show.png" title="potential field"><br>
  
  
